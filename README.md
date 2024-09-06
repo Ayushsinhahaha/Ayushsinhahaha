@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as React Native Developer at Tata Consultancy Services
+Working as React Native Developer at Tata Consultancy Services<br>
 I'm currently working on React Native projects<br><br>
 
 
