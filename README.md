@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native Projects<br>🌱 I’m currently learning Redux <br>⚡ Fun fact : First I drink the coffee, then I do the work
+🔭 I’m currently working on React Native Projects<br>🌱 I’m currently learning Redux <br>⚡ Fun fact : First I drink coffee, then I do the work
 
 
 ## 🌐 Socials:
